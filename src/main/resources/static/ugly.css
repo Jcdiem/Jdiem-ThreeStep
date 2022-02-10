@@ -1,0 +1,11 @@
+html{
+    background-color: yellow;
+    color: red;
+    text-shadow: 3px 3px greenyellow;
+}
+header{
+    background-color: greenyellow;
+}
+footer{
+    background-color: greenyellow;
+}
